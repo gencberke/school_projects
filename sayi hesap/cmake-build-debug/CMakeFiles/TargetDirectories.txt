@@ -1,0 +1,3 @@
+/Users/berkegenc/CLionProjects/sayi hesap/cmake-build-debug/CMakeFiles/sayi_hesap.dir
+/Users/berkegenc/CLionProjects/sayi hesap/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/berkegenc/CLionProjects/sayi hesap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
