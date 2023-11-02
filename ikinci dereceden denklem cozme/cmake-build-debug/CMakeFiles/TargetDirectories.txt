@@ -1,0 +1,3 @@
+/Users/berkegenc/CLionProjects/ikinci dereceden denklem cozme/cmake-build-debug/CMakeFiles/ikinci_dereceden_denklem_cozme.dir
+/Users/berkegenc/CLionProjects/ikinci dereceden denklem cozme/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/berkegenc/CLionProjects/ikinci dereceden denklem cozme/cmake-build-debug/CMakeFiles/rebuild_cache.dir
