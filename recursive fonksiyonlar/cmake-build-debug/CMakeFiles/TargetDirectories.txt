@@ -1,0 +1,3 @@
+/Users/berkegenc/CLionProjects/recursive fonksiyonlar/cmake-build-debug/CMakeFiles/recursive_fonksiyonlar.dir
+/Users/berkegenc/CLionProjects/recursive fonksiyonlar/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/berkegenc/CLionProjects/recursive fonksiyonlar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
